@@ -1,2 +1,1 @@
-Hello New World!!
-
+<?php phpinfo(); ?>
